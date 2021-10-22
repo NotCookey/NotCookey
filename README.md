@@ -1,16 +1,18 @@
-### Hi there 👋
+<img src="https://media.discordapp.net/attachments/817191295050973235/901200563268644864/imageonline-co-roundcorner.png">
 
-<!--
-**SecretsX/SecretsX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> IПTRӨDUCTIӨП
+```python
+class System:
+    def __init__(self):
+        self.name = "Secrets / Kanao"
+        self.role = ["Student","Programmer"]
+        self.bio=["I Make Things Or Make Things That Break Things"]
+        self.technologies = ["Python", "Java", "React", "Html", "Css", "JavaScript", "C"]
+        
+    def socials(self):
+        self.instagram="https://www.instagram.com/_kanao_.chan_/"
+        self.discord={"id":734372837149769771, "user":"Konoa#7218"}
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+if __name__=="__main__":
+    me=System()
+```
