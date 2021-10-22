@@ -1,6 +1,5 @@
 <img src="https://media.discordapp.net/attachments/817191295050973235/901200563268644864/imageonline-co-roundcorner.png">
 
-## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> IПTRӨDUCTIӨП
 ```python
 class System:
     def __init__(self):
