@@ -6,7 +6,7 @@ class System:
         self.name = "Secrets / Kanao"
         self.role = ["Student","Programmer"]
         self.bio=["I Make Things Or Make Things That Break Things"]
-        self.technologies = ["Python", "Java", "React", "Html", "Css", "JavaScript", "OpenCV", "C", "Photoshop", "Video Editing", "Reverse Engineering"]
+        self.technologies = ["Python", "Java", "React", "Html", "Css", "JavaScript", "OpenCV", "C", "Photoshop", "Video Editing"]
         
     def socials(self):
         self.instagram="https://www.instagram.com/_kanao_.chan_/"
