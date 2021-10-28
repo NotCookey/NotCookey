@@ -6,7 +6,7 @@ class System:
         self.name = "Secrets / Kanao"
         self.role = ["Student","Programmer"]
         self.bio = ["I Make Things Or Make Things That Break Things"]
-        self.personality=["antisocial","autophile","nyctophile","shy"]
+        self.personality=["autophile","nyctophile"]
         self.technologies = [
         ["Python", "Java", "React", "Html", "Css", "JavaScript", "C"],
         ["OpenCV", "TensorFlow", "Qt", "PhotoShop", "Reverse Engineering"]
