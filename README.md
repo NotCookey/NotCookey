@@ -1,5 +1,3 @@
-<img src="https://media.discordapp.net/attachments/817191295050973235/901200563268644864/imageonline-co-roundcorner.png">
-
 ```python
 class System:
     def __init__(self):
