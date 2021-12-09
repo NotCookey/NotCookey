@@ -7,7 +7,7 @@ class System:
         self.personality=["autophile","nyctophile"]
         self.technologies = [
         ["Python", "Java", "React", "Html", "Css", "JavaScript", "C"],
-        ["OpenCV", "TensorFlow", "Qt", "PhotoShop", "Reverse Engineering"]
+        ["Computer Vision", "AI & ML", "Desktop Ui/Ux", "Photoshop", "Reverse Engineering"]
         ]
 
 if __name__=="__main__":
