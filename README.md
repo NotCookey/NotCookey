@@ -13,6 +13,7 @@ if __name__=="__main__":
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
 ![React](https://img.shields.io/badge/-React-yellow?style=flat-square&logo=react)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![C++](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
@@ -37,4 +38,3 @@ if __name__=="__main__":
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Hacking](https://img.shields.io/badge/-Hacking-9A3DAC?style=flat-square&logo=Hackaday)
-![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
