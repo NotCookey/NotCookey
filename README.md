@@ -7,7 +7,7 @@ class System:
         self.personality = ["Autophile", "Nyctophile"]
 
 if __name__=="__main__":
-    me = System()
+    me = Thread(target=System()).start()
 ```
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
