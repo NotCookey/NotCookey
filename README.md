@@ -3,7 +3,7 @@ class System:
     def __init__(self):
         self.name = Name(["Secrets", "Kanao"])
         self.role = Role(["Student","Programmer"])
-        self.bio = Bio("I Break Things By Making Things")
+        self.bio = Bio("I Like Breaking Things By Making Things")
         self.personality = ["Autophile", "Nyctophile"]
 
 if __name__=="__main__":
