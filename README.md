@@ -1,13 +1,12 @@
 ```python
 class System:
     def __init__(self):
-        self.name = Name(["Blowsy", "Kanao", "Mercy"])
+        self.name = Name(["Snow", "Kanao"])
         self.role = Role(["Student","Programmer"])
         self.bio = Bio("I Like Breaking Things By Making Things")
-        self.personality = ["Autophile", "Nyctophile"]
 
 if __name__=="__main__":
-    me = Thread(target=System()).start()
+    me=System()
 ```
 ## <img height="40" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/> Technologies
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
