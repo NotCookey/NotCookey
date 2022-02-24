@@ -15,7 +15,7 @@ if __name__=="__main__":
 ![Nodejs](https://img.shields.io/badge/-Nodejs-green?style=flat-square&logo=Node.js)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=Flask)
 ![React](https://img.shields.io/badge/-React-yellow?style=flat-square&logo=react)
-![CSharp](https://img.shields.io/badge/-React-yellow?style=flat-square&logo=csharp)
+![CSharp](https://img.shields.io/badge/-CSharp-18191C?style=flat-square&logo=csharp)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
