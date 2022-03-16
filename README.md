@@ -4,7 +4,6 @@ class System:
         self.name = Name(["Snow", "Kanao"])
         self.role = Role(["Student","Programmer"])
         self.bio = Bio("I Make Things That Break Things")
-        self.expertise = "I once fixed a bug, does that count?"
 
 if __name__=="__main__":
     me=System()
@@ -38,3 +37,14 @@ if __name__=="__main__":
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Hacking](https://img.shields.io/badge/-Hacking-9A3DAC?style=flat-square&logo=Hackaday)
+
+## Pinned Projects
+
+<p>
+    <a href="https://github.com/SecretsX/Venus">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=secretsx&repo=Venus&theme=dark&layout=compact" align="left" />
+    </a>
+    <a href="https://github.com/SecretsX/Quote2Image">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=secretsx&repo=Quote2Image&theme=dark&layout=compact" align="right"/>
+    </a>
+</p>
