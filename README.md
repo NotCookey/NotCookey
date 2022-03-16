@@ -1,7 +1,7 @@
 ```python
 class System:
     def __init__(self):
-        self.name = Name(["Snow", "Kanao"])
+        self.name = Name(["Arete", "Kanao"])
         self.role = Role(["Student","Programmer"])
         self.bio = Bio("I Make Things That Break Things")
 
