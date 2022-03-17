@@ -40,7 +40,7 @@ if __name__=="__main__":
 
 <p align="center">
     <a href="">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SecretsX&layout=compact&theme=dark&card_width=990" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SecretsX&layout=compact&theme=dark&card_width=500" />
     </a>
 </p>
 
