@@ -38,6 +38,12 @@ if __name__=="__main__":
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Hacking](https://img.shields.io/badge/-Hacking-9A3DAC?style=flat-square&logo=Hackaday)
 
+<p align="center">
+    <a href="">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SecretsX&layout=compact&theme=dark&card_width=990" />
+    </a>
+</p>
+
 ## Pinned Projects
 
 <p align="center">
