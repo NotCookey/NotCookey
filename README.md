@@ -51,7 +51,7 @@ if __name__=="__main__":
     <a href="https://github.com/SecretsX/Venus">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=secretsx&repo=Venus&theme=dark&layout=compact" align="left" />
     </a>
-    <a href="https://github.com/SecretsX/PsyFlood">
+    <a href="https://github.com/SecretsX/Whiz">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=secretsx&repo=Whiz&theme=dark&layout=compact" align="right"/>
     </a>
 </p>
