@@ -1,4 +1,4 @@
-<h2 align="center"><img src="text-image-0.7.0.js.png" height="70px"></h2>
+<h2 align="center"><img src="text-image-0.7.0.js.png" height="50px"></h2>
 
 ```python
 class System:
