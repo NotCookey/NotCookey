@@ -4,7 +4,6 @@ class System:
         self.name = Name(["Arete", "Konoa"])
         self.role = Role(["Student","Programmer"])
         self.bio = Bio("I Make Things That Break Things")
-        self.discord=Discord("Kanao#8060")
 
 if __name__=="__main__":
     me=System()
