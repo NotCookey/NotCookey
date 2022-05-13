@@ -3,10 +3,9 @@
 # -*- coding: utf-8 -*-
 
 
-class System:
+class Arete:
 
     def __init__(self):
-        self.name = "Arete"
         self.role = ["Student", "Programmer", "Reverse Engineer"]
         self.skill = ["Python", "JavaScript", "React" , "VueJs", "Java", "Kotlin"]
 
@@ -14,6 +13,6 @@ class System:
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = System()
+me = Arete()
 me.say_hi()
 ```
