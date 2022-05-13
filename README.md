@@ -6,7 +6,7 @@
 class System:
 
     def __init__(self):
-        self.nick = "Arete"
+        self.name = "Arete"
         self.role = ["Student", "Programmer", "Reverse Engineer"]
         self.skill = ["Python", "JavaScript", "React" , "VueJs", "Java", "Kotlin"]
 
