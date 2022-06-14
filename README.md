@@ -42,9 +42,9 @@
 </table>
 </p>
 <br>
-<div align="center">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NotCookey&theme=onestar&no-bg=true&column=7&no-frame=true&margin-w=11">
-</div>
+</p>
 <br>
 <a href="https://github.com/Nshout">
   <p align="center">
