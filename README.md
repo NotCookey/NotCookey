@@ -6,7 +6,6 @@
 ![React](https://img.shields.io/badge/-React-yellow?style=flat-square&logo=react)
 ![React](https://img.shields.io/badge/-VueJs-828EFA?style=flat-square&logo=vue.js)
 ![Java](https://img.shields.io/badge/-kotlin-E34A86?style=flat-square&logo=kotlin)
-![C++](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
