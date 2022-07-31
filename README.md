@@ -44,10 +44,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=NotCookey&theme=onestar&no-bg=true&column=7&no-frame=true&margin-w=11" align="center">
 </p>
-<br>
-<a href="https://github.com/Nshout">
-  <p align="center">
-    <img src="https://discord.c99.nl/widget/theme-2/734372837149769771.png" alt="Kanao~#8060">
-  </p>
-</a>
-<h2></h2>
