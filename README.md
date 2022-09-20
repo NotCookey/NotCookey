@@ -37,4 +37,3 @@ I am on a never-ending quest to study and create my own world, and the more I le
 ## 連絡先
 - **Telegram**: [@KanaoChan](https://t.me/notcookey)
 - **Instagram**: [@simp.xyz](https://www.instagram.com/simp.xyz/?theme=dark)
-- **Discord**: [Kanao~#8060](https://qute.vercel.app/kanao)
