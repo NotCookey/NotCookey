@@ -1,3 +1,6 @@
 <p align="center">
-  <i><b>Give a person a program, frustrate them for a day. Teach a person to program, frustrate them for a lifetime.</b></i>
+  <i><b>Life is too short to be ordinary.</b></i>
+</p>
+<p align="right">
+  <sub><i><b>-- Karih Itoyj</b></i></sub>
 </p>
