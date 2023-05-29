@@ -10,7 +10,3 @@
   </tr>
 </table>
 </p>
-<br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=NotCookey&theme=onestar&no-bg=true&column=7&no-frame=true&margin-w=11" align="center">
-</p>
