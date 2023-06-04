@@ -1,12 +1,19 @@
-<p align="center">
+### 🌊 こんにちは
+<p>
+<b>Here, you will find a variety of research materials and personal projects that I have been working on. These projects range from academic papers to software projects   and everything in between. I am constantly learning and improving my skills, and I use GitHub as a way to document and share my progress. Feel free to take a look around   and see what I have been up to.</b>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=NotCookey" alt="" align="center" />
+
+### 👀 Quick Statistics
+
 <table>
   <tr>
     <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/?username=NotCookey&theme=aura&show_icons=true&bg_color=00000000&hide_border=true&hide_title=true&count_private=true" />
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/?username=NotCookey&show_icons=true&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
     </td>
     <td align="center" style="padding=0;width=50%;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotCookey&layout=compact&theme=dark&card_width=350&hide_border=true&title_color=C7C7C7&text_color=C7C7C7&show_icons=true&bg_color=00000000&hide_border=true&icon_color=ffffff=true&count_private=true"/>
+      <img align="center" style="padding=0;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotCookey&layout=compact&title_color=4F8CC9&text_color=9f9f9f&bg_color=151515&hide_border=true&icon_color=4F8CC9&hide=visual%20basic&count_private=true&extra=GAwesomeBot/bot,sharding-manager-next,api-next,web-next,bot-next,ts-template,worker-library,websocket-next;discordjs/discord.js,discord-api-types,collection;KlasaCommunityPlugins/no-mention-spam,tags,functions,channels-gateway,raw-events;auttaja/frontend;binarytf/binarytf;SolteraGG/StickyWallet,kotlin-plugin-base;Gay-Geeks/core,currency,leveling,utils,types,shop,modules-template;sapphiredev/utilities,framework,pieces,plugins,interactions,shapeshift,spinel,website;skyra-project/skyra,char;pfp-lgbt/frontend,pfp-lgbt-api;apify/browser-pool,apify-storage-local-js,apify-sdk-js,apify-client-js,apify-ts,crawlee,fingerprint-suite,apify-shared-js,proxy-chain,apify-actor-docker;statespacelabs/onlylabs-discord-bot;tidalmarket/tidal-ticket-bot-vladdy" />
     </td>
   </tr>
 </table>
-</p>
