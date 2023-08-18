@@ -1,10 +1,4 @@
-### 🌊 こんにちは
-<p>
-<b>Here, you will find a variety of research materials and personal projects that I have been working on.</b>
-</p>
-<img src="https://komarev.com/ghpvc/?username=NotCookey" alt="" align="center" />
-
-### 🎓 Project Showcase
+### Project Showcase
 **Here are some of my popular projects that I have worked on**
 
 - **[Quote2Image](https://github.com/NotCookey/Quote2Image)**: **A Python library for turning text quotes into graphical images**
