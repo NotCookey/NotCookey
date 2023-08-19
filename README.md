@@ -1,6 +1,4 @@
-### Just some stuffs I made
-
-| Name                                  | Description                                                         |
+| Project                                  | Description                                                         |
 |------------------------------------------|---------------------------------------------------------------------|
 | [Quote2Image](https://github.com/NotCookey/Quote2Image) | Python library for turning text quotes into images                 |
 | [Venus](https://github.com/NotCookey/Venus)       | Windows Dock Widget Written in Pure Python                        |
