@@ -1,8 +1,6 @@
-### Project Showcase
+### Just some stuffs I made
 
-Here are some of my popular projects that I have worked on:
-
-| Project                                  | Description                                                         |
+| Name                                  | Description                                                         |
 |------------------------------------------|---------------------------------------------------------------------|
 | [Quote2Image](https://github.com/NotCookey/Quote2Image) | Python library for turning text quotes into images                 |
 | [Venus](https://github.com/NotCookey/Venus)       | Windows Dock Widget Written in Pure Python                        |
