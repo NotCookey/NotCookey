@@ -5,4 +5,3 @@
 | [Lexica.art](https://github.com/NotCookey/Lexica.art) | Text to image generation Python API wrapper for Lexica.art         |
 | [Rainy](https://github.com/NotCookey/Rainy)       | A lightweight music player with an aesthetically pleasing design  |
 | [AphroGen](https://github.com/NotCookey/AphroGen) | A Fast, Free And Reliable Image Generation API                    |
-| [Intrigo](https://github.com/NotCookey/IntrigoAI) | Generate Unfiltered And Unrestricted AI Images. Supports SFW & NSFW Image Generations |
